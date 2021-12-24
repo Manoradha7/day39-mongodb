@@ -10,3 +10,7 @@ db.users.insertMany({})
 db.codekata.insertMany({})
 ![image](https://user-images.githubusercontent.com/91074732/147332270-f070d390-0e9c-4b08-b5eb-4e18ce70cfdb.png)
 
+# Insert attendance data
+db.attendance.insertMany({})
+![image](https://user-images.githubusercontent.com/91074732/147336932-6bb388b5-3af9-4312-a077-fa26a65a82c0.png)
+
